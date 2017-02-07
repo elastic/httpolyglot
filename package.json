@@ -1,5 +1,5 @@
-{ "name": "httpolyglot",
-  "version": "0.1.2",
+{ "name": "@elastic/httpolyglot",
+  "version": "0.1.2-elasticpatch1",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "Serve http and https connections over the same port with node.js",
   "main": "./lib/index.js",
@@ -8,6 +8,6 @@
   },
   "engines": { "node": ">=0.10.0" },
   "keywords": [ "http", "https", "multiplex", "polyglot" ],
-  "licenses": [ { "type": "MIT", "url": "http://github.com/mscdex/httpolyglot/raw/master/LICENSE" } ],
-  "repository" : { "type": "git", "url": "http://github.com/mscdex/httpolyglot.git" }
+  "licenses": [ { "type": "MIT", "url": "http://github.com/elastic/httpolyglot/raw/master/LICENSE" } ],
+  "repository" : { "type": "git", "url": "http://github.com/elastic/httpolyglot.git" }
 }
